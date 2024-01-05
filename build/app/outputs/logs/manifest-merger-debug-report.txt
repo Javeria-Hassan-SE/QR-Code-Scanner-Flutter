@@ -1,0 +1,257 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\HP\Desktop\Flutter sample Projects\Flutter_Qr_Code_Scanner_Example-main\Flutter_Qr_Code_Scanner_Example-main\android\app\src\main\AndroidManifest.xml:1:1-41:12
+INJECTED from C:\Users\HP\Desktop\Flutter sample Projects\Flutter_Qr_Code_Scanner_Example-main\Flutter_Qr_Code_Scanner_Example-main\android\app\src\main\AndroidManifest.xml:1:1-41:12
+INJECTED from C:\Users\HP\Desktop\Flutter sample Projects\Flutter_Qr_Code_Scanner_Example-main\Flutter_Qr_Code_Scanner_Example-main\android\app\src\main\AndroidManifest.xml:1:1-41:12
+INJECTED from C:\Users\HP\Desktop\Flutter sample Projects\Flutter_Qr_Code_Scanner_Example-main\Flutter_Qr_Code_Scanner_Example-main\android\app\src\main\AndroidManifest.xml:1:1-41:12
+MERGED from C:\Users\HP\Desktop\Flutter sample Projects\Flutter_Qr_Code_Scanner_Example-main\Flutter_Qr_Code_Scanner_Example-main\android\app\src\main\AndroidManifest.xml:1:1-41:12
+MERGED from [:url_launcher_android] C:\Users\HP\Desktop\Flutter sample Projects\Flutter_Qr_Code_Scanner_Example-main\Flutter_Qr_Code_Scanner_Example-main\build\url_launcher_android\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-14:12
+MERGED from [:qr_code_scanner] C:\Users\HP\Desktop\Flutter sample Projects\Flutter_Qr_Code_Scanner_Example-main\Flutter_Qr_Code_Scanner_Example-main\build\qr_code_scanner\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-10:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\HP\.gradle\caches\transforms-3\07b5c016b39da48e4bb39ec321d775dd\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\HP\.gradle\caches\transforms-3\cdfb6c344c494f00ddeed79f575dd5d3\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
+MERGED from [com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\HP\.gradle\caches\transforms-3\14e0ca3dc30b74decd9c26c57d01eab3\transformed\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:17:1-56:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\HP\.gradle\caches\transforms-3\2a8c2697859b0c7fe12c765def850e2e\transformed\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\HP\.gradle\caches\transforms-3\b27433c93160e0e8932093139fb5a3ee\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\HP\.gradle\caches\transforms-3\6e20727367da359757a63790e0a27777\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\a662b7b4de731eb2f6be241fae8df1b8\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\9ad2a96dbcfa3a3ddf3b3bce5646f9aa\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\9d595229dfd48bf3341eb592feb27169\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\f406c567281e7c8b0ae852915718e3f0\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\HP\.gradle\caches\transforms-3\7176a0339bf883d44a3d499fda4c8c16\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\HP\.gradle\caches\transforms-3\818eed7ae4027dcde4790812dc9a6184\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\2f25e06cf334901cb93fbdb0b7ad3bad\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\HP\.gradle\caches\transforms-3\4bb543524cafd36d2226509ed6e68086\transformed\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\HP\.gradle\caches\transforms-3\b4ed2570a84100c33af6f7534623a356\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\51acc1418ba760bf4c8fceda06314ebf\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\HP\.gradle\caches\transforms-3\13e2e0d899289ab920b2604854769571\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\HP\.gradle\caches\transforms-3\e6e6b36555fb7ff2977fec3270bc5fcb\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\8f93ffabba7ad5470f5e6527203fc2b4\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\bbd1d3c27eacf4cafcdaaa8543e01b2d\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\HP\.gradle\caches\transforms-3\773c665e067a270b78dd30b85a086000\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\HP\.gradle\caches\transforms-3\baf9935fec7cfb4df44db74561b74f70\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\HP\.gradle\caches\transforms-3\5db1bf5a8f5ac18173672c6330bd1178\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\97a750534ead2d76ac54c4fa729bbf7e\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\HP\.gradle\caches\transforms-3\cc7252375113fc5bc9e97b4b4d0abb20\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\HP\Desktop\Flutter sample Projects\Flutter_Qr_Code_Scanner_Example-main\Flutter_Qr_Code_Scanner_Example-main\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\HP\Desktop\Flutter sample Projects\Flutter_Qr_Code_Scanner_Example-main\Flutter_Qr_Code_Scanner_Example-main\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\HP\Desktop\Flutter sample Projects\Flutter_Qr_Code_Scanner_Example-main\Flutter_Qr_Code_Scanner_Example-main\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from C:\Users\HP\Desktop\Flutter sample Projects\Flutter_Qr_Code_Scanner_Example-main\Flutter_Qr_Code_Scanner_Example-main\android\app\src\main\AndroidManifest.xml:2:5-49
+		INJECTED from C:\Users\HP\Desktop\Flutter sample Projects\Flutter_Qr_Code_Scanner_Example-main\Flutter_Qr_Code_Scanner_Example-main\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP\Desktop\Flutter sample Projects\Flutter_Qr_Code_Scanner_Example-main\Flutter_Qr_Code_Scanner_Example-main\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\HP\Desktop\Flutter sample Projects\Flutter_Qr_Code_Scanner_Example-main\Flutter_Qr_Code_Scanner_Example-main\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\HP\Desktop\Flutter sample Projects\Flutter_Qr_Code_Scanner_Example-main\Flutter_Qr_Code_Scanner_Example-main\android\app\src\main\AndroidManifest.xml:1:1-41:12
+		INJECTED from C:\Users\HP\Desktop\Flutter sample Projects\Flutter_Qr_Code_Scanner_Example-main\Flutter_Qr_Code_Scanner_Example-main\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\HP\Desktop\Flutter sample Projects\Flutter_Qr_Code_Scanner_Example-main\Flutter_Qr_Code_Scanner_Example-main\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\HP\Desktop\Flutter sample Projects\Flutter_Qr_Code_Scanner_Example-main\Flutter_Qr_Code_Scanner_Example-main\android\app\src\main\AndroidManifest.xml:1:1-41:12
+		INJECTED from C:\Users\HP\Desktop\Flutter sample Projects\Flutter_Qr_Code_Scanner_Example-main\Flutter_Qr_Code_Scanner_Example-main\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\HP\Desktop\Flutter sample Projects\Flutter_Qr_Code_Scanner_Example-main\Flutter_Qr_Code_Scanner_Example-main\android\app\src\main\AndroidManifest.xml:1:11-69
+application
+ADDED from C:\Users\HP\Desktop\Flutter sample Projects\Flutter_Qr_Code_Scanner_Example-main\Flutter_Qr_Code_Scanner_Example-main\android\app\src\main\AndroidManifest.xml:3:4-40:19
+MERGED from [:url_launcher_android] C:\Users\HP\Desktop\Flutter sample Projects\Flutter_Qr_Code_Scanner_Example-main\Flutter_Qr_Code_Scanner_Example-main\build\url_launcher_android\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-12:19
+MERGED from [:url_launcher_android] C:\Users\HP\Desktop\Flutter sample Projects\Flutter_Qr_Code_Scanner_Example-main\Flutter_Qr_Code_Scanner_Example-main\build\url_launcher_android\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-12:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\HP\.gradle\caches\transforms-3\cdfb6c344c494f00ddeed79f575dd5d3\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\HP\.gradle\caches\transforms-3\cdfb6c344c494f00ddeed79f575dd5d3\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\HP\.gradle\caches\transforms-3\14e0ca3dc30b74decd9c26c57d01eab3\transformed\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:46:5-54:19
+MERGED from [com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\HP\.gradle\caches\transforms-3\14e0ca3dc30b74decd9c26c57d01eab3\transformed\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:46:5-54:19
+MERGED from [androidx.core:core:1.6.0] C:\Users\HP\.gradle\caches\transforms-3\4bb543524cafd36d2226509ed6e68086\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\HP\.gradle\caches\transforms-3\4bb543524cafd36d2226509ed6e68086\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\HP\.gradle\caches\transforms-3\baf9935fec7cfb4df44db74561b74f70\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\HP\.gradle\caches\transforms-3\baf9935fec7cfb4df44db74561b74f70\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] C:\Users\HP\.gradle\caches\transforms-3\4bb543524cafd36d2226509ed6e68086\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\HP\Desktop\Flutter sample Projects\Flutter_Qr_Code_Scanner_Example-main\Flutter_Qr_Code_Scanner_Example-main\android\app\src\main\AndroidManifest.xml:4:9-47
+	android:icon
+		ADDED from C:\Users\HP\Desktop\Flutter sample Projects\Flutter_Qr_Code_Scanner_Example-main\Flutter_Qr_Code_Scanner_Example-main\android\app\src\main\AndroidManifest.xml:5:9-43
+activity#com.example.example_qr_coed_reader.MainActivity
+ADDED from C:\Users\HP\Desktop\Flutter sample Projects\Flutter_Qr_Code_Scanner_Example-main\Flutter_Qr_Code_Scanner_Example-main\android\app\src\main\AndroidManifest.xml:6:9-34:20
+	android:launchMode
+		ADDED from C:\Users\HP\Desktop\Flutter sample Projects\Flutter_Qr_Code_Scanner_Example-main\Flutter_Qr_Code_Scanner_Example-main\android\app\src\main\AndroidManifest.xml:8:13-43
+	android:hardwareAccelerated
+		ADDED from C:\Users\HP\Desktop\Flutter sample Projects\Flutter_Qr_Code_Scanner_Example-main\Flutter_Qr_Code_Scanner_Example-main\android\app\src\main\AndroidManifest.xml:11:13-47
+	android:windowSoftInputMode
+		ADDED from C:\Users\HP\Desktop\Flutter sample Projects\Flutter_Qr_Code_Scanner_Example-main\Flutter_Qr_Code_Scanner_Example-main\android\app\src\main\AndroidManifest.xml:12:13-55
+	android:configChanges
+		ADDED from C:\Users\HP\Desktop\Flutter sample Projects\Flutter_Qr_Code_Scanner_Example-main\Flutter_Qr_Code_Scanner_Example-main\android\app\src\main\AndroidManifest.xml:10:13-163
+	android:theme
+		ADDED from C:\Users\HP\Desktop\Flutter sample Projects\Flutter_Qr_Code_Scanner_Example-main\Flutter_Qr_Code_Scanner_Example-main\android\app\src\main\AndroidManifest.xml:9:13-47
+	android:name
+		ADDED from C:\Users\HP\Desktop\Flutter sample Projects\Flutter_Qr_Code_Scanner_Example-main\Flutter_Qr_Code_Scanner_Example-main\android\app\src\main\AndroidManifest.xml:7:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from C:\Users\HP\Desktop\Flutter sample Projects\Flutter_Qr_Code_Scanner_Example-main\Flutter_Qr_Code_Scanner_Example-main\android\app\src\main\AndroidManifest.xml:17:13-20:17
+	android:resource
+		ADDED from C:\Users\HP\Desktop\Flutter sample Projects\Flutter_Qr_Code_Scanner_Example-main\Flutter_Qr_Code_Scanner_Example-main\android\app\src\main\AndroidManifest.xml:19:15-52
+	android:name
+		ADDED from C:\Users\HP\Desktop\Flutter sample Projects\Flutter_Qr_Code_Scanner_Example-main\Flutter_Qr_Code_Scanner_Example-main\android\app\src\main\AndroidManifest.xml:18:15-70
+meta-data#io.flutter.embedding.android.SplashScreenDrawable
+ADDED from C:\Users\HP\Desktop\Flutter sample Projects\Flutter_Qr_Code_Scanner_Example-main\Flutter_Qr_Code_Scanner_Example-main\android\app\src\main\AndroidManifest.xml:26:13-29:17
+	android:resource
+		ADDED from C:\Users\HP\Desktop\Flutter sample Projects\Flutter_Qr_Code_Scanner_Example-main\Flutter_Qr_Code_Scanner_Example-main\android\app\src\main\AndroidManifest.xml:28:15-61
+	android:name
+		ADDED from C:\Users\HP\Desktop\Flutter sample Projects\Flutter_Qr_Code_Scanner_Example-main\Flutter_Qr_Code_Scanner_Example-main\android\app\src\main\AndroidManifest.xml:27:15-79
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\HP\Desktop\Flutter sample Projects\Flutter_Qr_Code_Scanner_Example-main\Flutter_Qr_Code_Scanner_Example-main\android\app\src\main\AndroidManifest.xml:30:13-33:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\HP\Desktop\Flutter sample Projects\Flutter_Qr_Code_Scanner_Example-main\Flutter_Qr_Code_Scanner_Example-main\android\app\src\main\AndroidManifest.xml:31:17-68
+	android:name
+		ADDED from C:\Users\HP\Desktop\Flutter sample Projects\Flutter_Qr_Code_Scanner_Example-main\Flutter_Qr_Code_Scanner_Example-main\android\app\src\main\AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\HP\Desktop\Flutter sample Projects\Flutter_Qr_Code_Scanner_Example-main\Flutter_Qr_Code_Scanner_Example-main\android\app\src\main\AndroidManifest.xml:32:17-76
+	android:name
+		ADDED from C:\Users\HP\Desktop\Flutter sample Projects\Flutter_Qr_Code_Scanner_Example-main\Flutter_Qr_Code_Scanner_Example-main\android\app\src\main\AndroidManifest.xml:32:27-74
+meta-data#flutterEmbedding
+ADDED from C:\Users\HP\Desktop\Flutter sample Projects\Flutter_Qr_Code_Scanner_Example-main\Flutter_Qr_Code_Scanner_Example-main\android\app\src\main\AndroidManifest.xml:37:9-39:33
+	android:value
+		ADDED from C:\Users\HP\Desktop\Flutter sample Projects\Flutter_Qr_Code_Scanner_Example-main\Flutter_Qr_Code_Scanner_Example-main\android\app\src\main\AndroidManifest.xml:39:13-30
+	android:name
+		ADDED from C:\Users\HP\Desktop\Flutter sample Projects\Flutter_Qr_Code_Scanner_Example-main\Flutter_Qr_Code_Scanner_Example-main\android\app\src\main\AndroidManifest.xml:38:13-44
+uses-sdk
+INJECTED from C:\Users\HP\Desktop\Flutter sample Projects\Flutter_Qr_Code_Scanner_Example-main\Flutter_Qr_Code_Scanner_Example-main\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\HP\Desktop\Flutter sample Projects\Flutter_Qr_Code_Scanner_Example-main\Flutter_Qr_Code_Scanner_Example-main\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\HP\Desktop\Flutter sample Projects\Flutter_Qr_Code_Scanner_Example-main\Flutter_Qr_Code_Scanner_Example-main\android\app\src\main\AndroidManifest.xml
+MERGED from [:url_launcher_android] C:\Users\HP\Desktop\Flutter sample Projects\Flutter_Qr_Code_Scanner_Example-main\Flutter_Qr_Code_Scanner_Example-main\build\url_launcher_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_android] C:\Users\HP\Desktop\Flutter sample Projects\Flutter_Qr_Code_Scanner_Example-main\Flutter_Qr_Code_Scanner_Example-main\build\url_launcher_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:qr_code_scanner] C:\Users\HP\Desktop\Flutter sample Projects\Flutter_Qr_Code_Scanner_Example-main\Flutter_Qr_Code_Scanner_Example-main\build\qr_code_scanner\intermediates\library_manifest\debug\AndroidManifest.xml:6:5-8:67
+MERGED from [:qr_code_scanner] C:\Users\HP\Desktop\Flutter sample Projects\Flutter_Qr_Code_Scanner_Example-main\Flutter_Qr_Code_Scanner_Example-main\build\qr_code_scanner\intermediates\library_manifest\debug\AndroidManifest.xml:6:5-8:67
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\HP\.gradle\caches\transforms-3\07b5c016b39da48e4bb39ec321d775dd\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\HP\.gradle\caches\transforms-3\07b5c016b39da48e4bb39ec321d775dd\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\HP\.gradle\caches\transforms-3\cdfb6c344c494f00ddeed79f575dd5d3\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\HP\.gradle\caches\transforms-3\cdfb6c344c494f00ddeed79f575dd5d3\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\HP\.gradle\caches\transforms-3\14e0ca3dc30b74decd9c26c57d01eab3\transformed\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\HP\.gradle\caches\transforms-3\14e0ca3dc30b74decd9c26c57d01eab3\transformed\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\HP\.gradle\caches\transforms-3\2a8c2697859b0c7fe12c765def850e2e\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\HP\.gradle\caches\transforms-3\2a8c2697859b0c7fe12c765def850e2e\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\HP\.gradle\caches\transforms-3\b27433c93160e0e8932093139fb5a3ee\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\HP\.gradle\caches\transforms-3\b27433c93160e0e8932093139fb5a3ee\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\HP\.gradle\caches\transforms-3\6e20727367da359757a63790e0a27777\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\HP\.gradle\caches\transforms-3\6e20727367da359757a63790e0a27777\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\a662b7b4de731eb2f6be241fae8df1b8\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\a662b7b4de731eb2f6be241fae8df1b8\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\9ad2a96dbcfa3a3ddf3b3bce5646f9aa\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\9ad2a96dbcfa3a3ddf3b3bce5646f9aa\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\9d595229dfd48bf3341eb592feb27169\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\9d595229dfd48bf3341eb592feb27169\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\f406c567281e7c8b0ae852915718e3f0\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\f406c567281e7c8b0ae852915718e3f0\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\HP\.gradle\caches\transforms-3\7176a0339bf883d44a3d499fda4c8c16\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\HP\.gradle\caches\transforms-3\7176a0339bf883d44a3d499fda4c8c16\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\HP\.gradle\caches\transforms-3\818eed7ae4027dcde4790812dc9a6184\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\HP\.gradle\caches\transforms-3\818eed7ae4027dcde4790812dc9a6184\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\2f25e06cf334901cb93fbdb0b7ad3bad\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\2f25e06cf334901cb93fbdb0b7ad3bad\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] C:\Users\HP\.gradle\caches\transforms-3\4bb543524cafd36d2226509ed6e68086\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\HP\.gradle\caches\transforms-3\4bb543524cafd36d2226509ed6e68086\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\HP\.gradle\caches\transforms-3\b4ed2570a84100c33af6f7534623a356\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\HP\.gradle\caches\transforms-3\b4ed2570a84100c33af6f7534623a356\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\51acc1418ba760bf4c8fceda06314ebf\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\51acc1418ba760bf4c8fceda06314ebf\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\HP\.gradle\caches\transforms-3\13e2e0d899289ab920b2604854769571\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\HP\.gradle\caches\transforms-3\13e2e0d899289ab920b2604854769571\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\HP\.gradle\caches\transforms-3\e6e6b36555fb7ff2977fec3270bc5fcb\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\HP\.gradle\caches\transforms-3\e6e6b36555fb7ff2977fec3270bc5fcb\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\8f93ffabba7ad5470f5e6527203fc2b4\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\8f93ffabba7ad5470f5e6527203fc2b4\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\bbd1d3c27eacf4cafcdaaa8543e01b2d\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\bbd1d3c27eacf4cafcdaaa8543e01b2d\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\HP\.gradle\caches\transforms-3\773c665e067a270b78dd30b85a086000\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\HP\.gradle\caches\transforms-3\773c665e067a270b78dd30b85a086000\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\HP\.gradle\caches\transforms-3\baf9935fec7cfb4df44db74561b74f70\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\HP\.gradle\caches\transforms-3\baf9935fec7cfb4df44db74561b74f70\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\HP\.gradle\caches\transforms-3\5db1bf5a8f5ac18173672c6330bd1178\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\HP\.gradle\caches\transforms-3\5db1bf5a8f5ac18173672c6330bd1178\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\97a750534ead2d76ac54c4fa729bbf7e\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\HP\.gradle\caches\transforms-3\97a750534ead2d76ac54c4fa729bbf7e\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\HP\.gradle\caches\transforms-3\cc7252375113fc5bc9e97b4b4d0abb20\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\HP\.gradle\caches\transforms-3\cc7252375113fc5bc9e97b4b4d0abb20\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\HP\Desktop\Flutter sample Projects\Flutter_Qr_Code_Scanner_Example-main\Flutter_Qr_Code_Scanner_Example-main\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\HP\Desktop\Flutter sample Projects\Flutter_Qr_Code_Scanner_Example-main\Flutter_Qr_Code_Scanner_Example-main\android\app\src\debug\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [:qr_code_scanner] C:\Users\HP\Desktop\Flutter sample Projects\Flutter_Qr_Code_Scanner_Example-main\Flutter_Qr_Code_Scanner_Example-main\build\qr_code_scanner\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-64
+	android:targetSdkVersion
+		INJECTED from C:\Users\HP\Desktop\Flutter sample Projects\Flutter_Qr_Code_Scanner_Example-main\Flutter_Qr_Code_Scanner_Example-main\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP\Desktop\Flutter sample Projects\Flutter_Qr_Code_Scanner_Example-main\Flutter_Qr_Code_Scanner_Example-main\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\HP\Desktop\Flutter sample Projects\Flutter_Qr_Code_Scanner_Example-main\Flutter_Qr_Code_Scanner_Example-main\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP\Desktop\Flutter sample Projects\Flutter_Qr_Code_Scanner_Example-main\Flutter_Qr_Code_Scanner_Example-main\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\HP\Desktop\Flutter sample Projects\Flutter_Qr_Code_Scanner_Example-main\Flutter_Qr_Code_Scanner_Example-main\android\app\src\debug\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from C:\Users\HP\Desktop\Flutter sample Projects\Flutter_Qr_Code_Scanner_Example-main\Flutter_Qr_Code_Scanner_Example-main\android\app\src\debug\AndroidManifest.xml:6:22-64
+activity#io.flutter.plugins.urllauncher.WebViewActivity
+ADDED from [:url_launcher_android] C:\Users\HP\Desktop\Flutter sample Projects\Flutter_Qr_Code_Scanner_Example-main\Flutter_Qr_Code_Scanner_Example-main\build\url_launcher_android\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-11:74
+	android:exported
+		ADDED from [:url_launcher_android] C:\Users\HP\Desktop\Flutter sample Projects\Flutter_Qr_Code_Scanner_Example-main\Flutter_Qr_Code_Scanner_Example-main\build\url_launcher_android\intermediates\library_manifest\debug\AndroidManifest.xml:10:13-37
+	android:theme
+		ADDED from [:url_launcher_android] C:\Users\HP\Desktop\Flutter sample Projects\Flutter_Qr_Code_Scanner_Example-main\Flutter_Qr_Code_Scanner_Example-main\build\url_launcher_android\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-71
+	android:name
+		ADDED from [:url_launcher_android] C:\Users\HP\Desktop\Flutter sample Projects\Flutter_Qr_Code_Scanner_Example-main\Flutter_Qr_Code_Scanner_Example-main\build\url_launcher_android\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-74
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\HP\.gradle\caches\transforms-3\cdfb6c344c494f00ddeed79f575dd5d3\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\HP\.gradle\caches\transforms-3\cdfb6c344c494f00ddeed79f575dd5d3\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\HP\.gradle\caches\transforms-3\cdfb6c344c494f00ddeed79f575dd5d3\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\HP\.gradle\caches\transforms-3\cdfb6c344c494f00ddeed79f575dd5d3\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\HP\.gradle\caches\transforms-3\cdfb6c344c494f00ddeed79f575dd5d3\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\HP\.gradle\caches\transforms-3\cdfb6c344c494f00ddeed79f575dd5d3\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+uses-permission#android.permission.CAMERA
+ADDED from [com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\HP\.gradle\caches\transforms-3\14e0ca3dc30b74decd9c26c57d01eab3\transformed\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:22:5-65
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\HP\.gradle\caches\transforms-3\14e0ca3dc30b74decd9c26c57d01eab3\transformed\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:22:22-62
+uses-feature#android.hardware.camera
+ADDED from [com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\HP\.gradle\caches\transforms-3\14e0ca3dc30b74decd9c26c57d01eab3\transformed\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:25:5-27:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\HP\.gradle\caches\transforms-3\14e0ca3dc30b74decd9c26c57d01eab3\transformed\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:27:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\HP\.gradle\caches\transforms-3\14e0ca3dc30b74decd9c26c57d01eab3\transformed\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:26:9-47
+uses-feature#android.hardware.camera.front
+ADDED from [com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\HP\.gradle\caches\transforms-3\14e0ca3dc30b74decd9c26c57d01eab3\transformed\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:28:5-30:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\HP\.gradle\caches\transforms-3\14e0ca3dc30b74decd9c26c57d01eab3\transformed\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:30:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\HP\.gradle\caches\transforms-3\14e0ca3dc30b74decd9c26c57d01eab3\transformed\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:29:9-53
+uses-feature#android.hardware.camera.autofocus
+ADDED from [com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\HP\.gradle\caches\transforms-3\14e0ca3dc30b74decd9c26c57d01eab3\transformed\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:33:5-35:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\HP\.gradle\caches\transforms-3\14e0ca3dc30b74decd9c26c57d01eab3\transformed\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:35:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\HP\.gradle\caches\transforms-3\14e0ca3dc30b74decd9c26c57d01eab3\transformed\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:34:9-57
+uses-feature#android.hardware.camera.flash
+ADDED from [com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\HP\.gradle\caches\transforms-3\14e0ca3dc30b74decd9c26c57d01eab3\transformed\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:36:5-38:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\HP\.gradle\caches\transforms-3\14e0ca3dc30b74decd9c26c57d01eab3\transformed\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:38:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\HP\.gradle\caches\transforms-3\14e0ca3dc30b74decd9c26c57d01eab3\transformed\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:37:9-53
+uses-feature#android.hardware.screen.landscape
+ADDED from [com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\HP\.gradle\caches\transforms-3\14e0ca3dc30b74decd9c26c57d01eab3\transformed\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:39:5-41:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\HP\.gradle\caches\transforms-3\14e0ca3dc30b74decd9c26c57d01eab3\transformed\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:41:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\HP\.gradle\caches\transforms-3\14e0ca3dc30b74decd9c26c57d01eab3\transformed\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:40:9-57
+uses-feature#android.hardware.wifi
+ADDED from [com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\HP\.gradle\caches\transforms-3\14e0ca3dc30b74decd9c26c57d01eab3\transformed\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:42:5-44:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\HP\.gradle\caches\transforms-3\14e0ca3dc30b74decd9c26c57d01eab3\transformed\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:44:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\HP\.gradle\caches\transforms-3\14e0ca3dc30b74decd9c26c57d01eab3\transformed\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:43:9-45
+activity#com.journeyapps.barcodescanner.CaptureActivity
+ADDED from [com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\HP\.gradle\caches\transforms-3\14e0ca3dc30b74decd9c26c57d01eab3\transformed\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:47:9-53:63
+	android:screenOrientation
+		ADDED from [com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\HP\.gradle\caches\transforms-3\14e0ca3dc30b74decd9c26c57d01eab3\transformed\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:50:13-56
+	android:clearTaskOnLaunch
+		ADDED from [com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\HP\.gradle\caches\transforms-3\14e0ca3dc30b74decd9c26c57d01eab3\transformed\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:49:13-45
+	android:stateNotNeeded
+		ADDED from [com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\HP\.gradle\caches\transforms-3\14e0ca3dc30b74decd9c26c57d01eab3\transformed\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:51:13-42
+	android:windowSoftInputMode
+		ADDED from [com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\HP\.gradle\caches\transforms-3\14e0ca3dc30b74decd9c26c57d01eab3\transformed\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:53:13-60
+	android:theme
+		ADDED from [com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\HP\.gradle\caches\transforms-3\14e0ca3dc30b74decd9c26c57d01eab3\transformed\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:52:13-54
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:4.1.0] C:\Users\HP\.gradle\caches\transforms-3\14e0ca3dc30b74decd9c26c57d01eab3\transformed\jetified-zxing-android-embedded-4.1.0\AndroidManifest.xml:48:13-74
